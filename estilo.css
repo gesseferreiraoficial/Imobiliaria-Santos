@@ -1,0 +1,38 @@
+
+
+.secao {
+    background-color: #afddfb;
+    align-content: center;
+}
+
+.imagem-logotipo {
+    width: 150px;
+    display: block;
+    margin: auto;
+    }
+
+p {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 15px solid #1d1d1d; /* Adicionando a cor */
+    text-decoration: none;
+}
+
+span {
+    color: #afddfb;
+}
+
+#sobre h2 {
+    color:#afddfb
+}
+
+#servicos span {
+    color:#FFFF00;
+}
+
+#contato span {
+    color:#FFFF00
+}
