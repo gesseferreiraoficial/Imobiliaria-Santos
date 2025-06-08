@@ -1,23 +1,44 @@
-.secao {
+body{
+    margin: 0;
+    padding:0%;
+}
+
+.secao-topo {
     background-color: #afddfb;
+    font-family: 'Tahoma';
     align-content: center
 }
 
 .imagem-logotipo {
     width: 150px;
     display: block;
-    margin: auto;
+    margin: auto
     }
 
-p {
-    text-align: center;
+div p {
     margin-top: 15px;
     margin-bottom: 25px;
+    text-align: center
+}
+
+.link-topo {
     font-size: 18px;
     color: #1d1d1d;
-    border-bottom: 15px solid #1d1d1d; /* Adicionando a cor */
+    border-bottom: 2px solid #1d1d1d;
     text-decoration: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    padding: 0 10px
 }
+
+    .secao-banner {
+        display: flex;
+        justify-content: center;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        }
+
 
 span {
     color: #afddfb;
