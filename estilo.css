@@ -60,7 +60,7 @@ span {
     font-weight: bold;
 }
 
-/*=== Seção 3  ===*/
+/*=== Seção 3  / Assinatura imóvel ===*/
 h1 {
     color: #1d1d1d;
     margin-bottom: 5px;
@@ -80,10 +80,39 @@ h2 {
     color: #1d80c1;
 }
 
-#servicos span {
-    color:#FFFF00;
+/*=== Seção 4 / Serviços  ===*/
+
+.servicos {
+    background-color: #1d80c1;
 }
 
-#contato span {
-    color:#FFFF00
+.paragrafo-servicos {
+    color: #ffffff;
+    line-height: 42px;
+    width: 700px;
+    font-size: 22px;
+    text-align: center
+}
+
+h3 {
+    color:#ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+.texto-amarelo {
+    color:#fff81b;
+}
+
+
+.lista-servicos {
+    width: 135px;
+    margin: 40px auto 40px;
+
+}
+
+.item-lista-servicos {
+    font-size: 22px;
+    line-height: 42px;
+    text-align: left;
+    color: #fff
 }
