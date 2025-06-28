@@ -76,7 +76,7 @@ h2 {
 }
 
 .imagem {
-    width: 450px;
+    width: 45%;
 }
 
 .texto-azul {
@@ -92,7 +92,7 @@ h2 {
 .paragrafo-servicos {
     color: #ffffff;
     line-height: 42px;
-    width: 700px;
+    width: 70%;
     font-size: 22px;
     text-align: center
 }
